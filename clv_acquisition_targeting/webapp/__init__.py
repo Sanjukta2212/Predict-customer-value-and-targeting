@@ -1,1 +1,0 @@
-# CSR web application package
